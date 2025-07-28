@@ -1,0 +1,5 @@
+Makanan:
+seblak
+bakso
+mie ayam
+mie gacoan
